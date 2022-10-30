@@ -1,0 +1,10 @@
+name: LspTest
+version: 1.0.0.0
+
+dependencies:
+  - base
+
+library:
+  exposed-modules: LspTest
+  source-dirs: src
+  ghc-options: -Wall
